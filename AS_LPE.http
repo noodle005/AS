@@ -1,0 +1,6 @@
+@AS_LPE_HostAddress = http://localhost:5137
+
+GET {{AS_LPE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
